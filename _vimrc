@@ -22,3 +22,4 @@ noremap     <Right> <NOP>
 
 "use decimal instead of octal notation
 set nrformats=
+"some changes
