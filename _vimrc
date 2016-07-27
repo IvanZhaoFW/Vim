@@ -1,3 +1,5 @@
+"set encode to utf-8
+set encoding=utf-8
 "improve vim
 set nocompatible
 "dont know what it does
@@ -6,7 +8,9 @@ filetype plugin on
 syntax on
 "highlight search keywords * or /pattern
 set hls
-
+"setup color scheme
+colorscheme solarized
+set background=dark
 "set tab width to 4
 set tabstop=4
 
